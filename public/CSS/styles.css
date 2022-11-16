@@ -1,0 +1,11 @@
+header {
+  font-size: 80px;
+  color: white;
+  margin-left: 40px;
+  margin-right: 30px;
+}
+header .cabecera {
+  background-color: mediumblue;
+}
+
+/*# sourceMappingURL=styles.css.map */
